@@ -1,0 +1,9 @@
+name: heart-risk-detection-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - scikit-learn
+  - pandas
+  - mlflow
+  - pip
